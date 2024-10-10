@@ -29,7 +29,7 @@ Fazer a ingestão de uma API REST para criação de uma DATAMART para a área en
 | <kbd>PowerBI</kbd>     | Visualização de painél de indicadores do Datamart
 
 
-<h2 id="return"> INDICADORES DOS DATAMARTS DE DIRETORIA E SECRETÁRIA </h2>
+<h2 id="return"> INDICADORES DOS DATAMARTS DE DIRETORIA E SECRETARIA </h2>
 
 - [ ] Crescimento Percentual de SP em relação ao BR nos últimos 5 anos
 - [ ] Participação das escolas públicas e privadas na nota do ENEM
