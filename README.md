@@ -33,7 +33,7 @@ Fazer a ingestão de uma API REST para criação de uma DATAMART para a área en
 
 - [ ] Crescimento Percentual de SP em relação ao BR nos últimos 5 anos
 - [ ] Participação das escolas públicas e privadas na nota do ENEM
-- [ ] 5 melhores estados em relação ao ENEM
+- [ ] Ranking dos estados em relação ao ENEM
 - [ ] Comparação das médias escolares do ENEM em relação a média nacional
 
 
