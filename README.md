@@ -10,7 +10,8 @@ Fazer a ingestão de uma API REST para criação de uma DATAMART para a área en
 <h2 id="arquitetura"> ARQUITETURA </h2>
 
 <!-- ![Google Cloud Architecture  CSV - API ARCHITECTURE](https://github.com/user-attachments/assets/b8160b8d-993a-44ca-a6db-e73a703d6e81) -->
-![arquitetura](https://github.com/user-attachments/assets/96f262e6-f2d3-4af1-b948-05c63c9519f8)
+![arquitetura](https://github.com/user-attachments/assets/28a6190f-b71b-4ab6-bfef-442c0178b230)
+
 
 [Link para o Miro Board](https://miro.com/app/board/uXjVKoI0Df8=/?diagramming=)
 
